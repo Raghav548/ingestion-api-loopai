@@ -1,3 +1,4 @@
+⚠️ Important: This project is hosted on Render's free tier. Due to platform limitations, the API instance automatically spins down after periods of inactivity. As a result, the first request after a period of no usage may take up to 50 seconds or more to receive a response. Subsequent requests will respond normally.
 # Ingestion API Service
 
 This is a data ingestion microservice that supports batch processing, prioritization, and asynchronous status tracking. Built as part of a system design assignment, it allows clients to ingest data with configurable priorities and track the processing status of each batch.
