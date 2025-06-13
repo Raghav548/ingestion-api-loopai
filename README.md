@@ -94,25 +94,6 @@ npm start
 ```
 By default, it runs on: http://localhost:5000
 
-### 🌐 Deployment (Render)
-Steps:
-Create an account on Render.
-
-Create a new Web Service.
-
-Connect your GitHub repo.
-
-Use the following settings:
-
-Root Directory: ingestion-api (if you named your folder this way)
-
-Build Command: npm install
-
-Start Command: npm start
-
-Environment: Node
-
-After deployment, use the provided URL as your base for API requests.
 
 📂 Project Structure
 pgsql
